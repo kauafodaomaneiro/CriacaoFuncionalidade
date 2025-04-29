@@ -3,6 +3,43 @@ body{
     color: white;
 }
 
-.header{
+#header{
     width: 600px;
 }
+
+.perfil{
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+#pfp{
+    width: 120px;
+    border-radius: 200px;
+    margin: -20px;
+}
+
+.flex{
+    display: flex;
+}
+
+#seguir{
+    background-color: rgb(65, 163, 255);
+    color: white;
+    border-radius: 200px;
+    width: 110px;
+    height: 40px;
+    font-size: medium;
+}
+
+#opcoes{
+    background-color: rgb(12, 23, 31);
+    color: rgb(216, 216, 216);
+    border-radius: 200px;
+    width: 30px;
+    height: 30px;
+    
+}
+
+
+
